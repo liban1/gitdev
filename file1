@@ -1,0 +1,11 @@
+--- # The Awils
+- {name: John Smith, age: 33}
+- name: Liban Awil
+  age: 27
+- [name, age]: [Miski Awil, 35]   # sequences as keys are supported
+--- # People, by gender
+men: [Deeq Awil, Liban AWil]
+women:
+  - miski Ali
+  - deeqo Nuure
+
