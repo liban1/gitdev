@@ -1,1 +1,13 @@
-hello
+def remove_duplicates(list):
+lista2 =[]
+if list:
+    for item in list:
+         if item not in list2: #is item in list2 already?
+             list2.append(item)
+
+ else:
+     return list
+  return list2
+print remove_duplicates([1,2,3,3,5,6])
+    
+
