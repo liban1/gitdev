@@ -5,6 +5,7 @@ main()
    //Initial Code
  }
   Function2()
+      //initial Code2
    {
       //Developer A Code
     }
