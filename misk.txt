@@ -170,6 +170,9 @@ root@ip-172-31-54-254:~/localrepo# history
   169  git push
   170  git push origin tag release0.1
   171  history
+  -------------------------------------------------
+  After here is docker comman that we use today
+  
 
 
   root@kubework2:~# history
@@ -276,7 +279,6 @@ root@ip-172-31-54-254:~/localrepo# history
   101  ls -l
   102  vim Dockerfile
   103  ls -
-  104  ls -l
   105  echo "hello Friends" > index.html
   106  ls -l
   107  docker build -t testapache .
